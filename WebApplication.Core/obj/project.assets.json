@@ -7194,11 +7194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahdi Moeinifar\\Desktop\\WebApplication\\WebApplication.Core\\WebApplication.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Mahdi Moeinifar\\Source\\Repos\\WebApplication\\WebApplication.Core\\WebApplication.Core.csproj",
       "projectName": "WebApplication.Core",
-      "projectPath": "C:\\Users\\Mahdi Moeinifar\\Desktop\\WebApplication\\WebApplication.Core\\WebApplication.Core.csproj",
+      "projectPath": "C:\\Users\\Mahdi Moeinifar\\Source\\Repos\\WebApplication\\WebApplication.Core\\WebApplication.Core.csproj",
       "packagesPath": "C:\\Users\\Mahdi Moeinifar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahdi Moeinifar\\Desktop\\WebApplication\\WebApplication.Core\\obj\\",
+      "outputPath": "C:\\Users\\Mahdi Moeinifar\\Source\\Repos\\WebApplication\\WebApplication.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

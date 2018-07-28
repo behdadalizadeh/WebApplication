@@ -3,3 +3,17 @@ C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\ne
 C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csproj.CoreCompileInputs.cache
 C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfoInputs.cache
 C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfo.cs
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Data.deps.json
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Data.runtimeconfig.json
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Data.runtimeconfig.dev.json
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Data.dll
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Data.pdb
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Core.dll
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Core.pdb
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csprojAssemblyReference.cache
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfoInputs.cache
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfo.cs
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csproj.CopyComplete
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.dll
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.pdb
