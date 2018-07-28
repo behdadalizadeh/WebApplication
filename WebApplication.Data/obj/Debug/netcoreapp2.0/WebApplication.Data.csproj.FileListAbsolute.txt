@@ -1,0 +1,5 @@
+C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\bin\Debug\netcoreapp2.0\WebApplication.Core.dll
+C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csprojAssemblyReference.cache
+C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfoInputs.cache
+C:\Users\Mahdi Moeinifar\Desktop\WebApplication\WebApplication.Data\obj\Debug\netcoreapp2.0\WebApplication.Data.AssemblyInfo.cs
