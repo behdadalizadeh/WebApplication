@@ -11,7 +11,6 @@ C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\bin\Deb
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\bin\Debug\netcoreapp2.0\WebApplication.Core.runtimeconfig.dev.json
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\bin\Debug\netcoreapp2.0\WebApplication.Core.dll
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\bin\Debug\netcoreapp2.0\WebApplication.Core.pdb
-C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.csprojAssemblyReference.cache
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.csproj.CoreCompileInputs.cache
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.AssemblyInfoInputs.cache
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.AssemblyInfo.cs
