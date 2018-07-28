@@ -8,7 +8,7 @@ using WebApplication.Core.ViewModel.Users;
 
 namespace WebApplication.Core.SSOT
 {
-    class MappingProfile : Profile
+    public class MappingProfile : Profile
     {
         public MappingProfile()
         {
