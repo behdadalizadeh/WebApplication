@@ -8428,7 +8428,7 @@
   },
   "packageFolders": {
     "C:\\Users\\Mahdi Moeinifar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8440,7 +8440,7 @@
       "outputPath": "C:\\Users\\Mahdi Moeinifar\\Source\\Repos\\WebApplication\\WebApplication.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Mahdi Moeinifar\\AppData\\Roaming\\NuGet\\NuGet.Config",

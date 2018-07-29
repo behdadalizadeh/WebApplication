@@ -16,3 +16,4 @@ C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Deb
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.AssemblyInfo.cs
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.dll
 C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.pdb
+C:\Users\Mahdi Moeinifar\Source\Repos\WebApplication\WebApplication.Core\obj\Debug\netcoreapp2.0\WebApplication.Core.csprojAssemblyReference.cache
